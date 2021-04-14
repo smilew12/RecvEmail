@@ -1,0 +1,2 @@
+F:\mycode\mybook\Chapter07\code\RecvMail\x64\Debug\RecvMail.exe
+F:\mycode\mybook\Chapter07\code\RecvMail\x64\Debug\RecvMail.pdb

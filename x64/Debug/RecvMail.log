@@ -1,0 +1,8 @@
+﻿  Pop3Socket.cpp
+F:\mycode\mybook\Chapter07\code\RecvMail\Pop3Socket.cpp(473,43): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+F:\mycode\mybook\Chapter07\code\RecvMail\Pop3Socket.cpp(475,38): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+F:\mycode\mybook\Chapter07\code\RecvMail\Pop3Socket.cpp(498,40): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+F:\mycode\mybook\Chapter07\code\RecvMail\Pop3Socket.cpp(501,54): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+F:\mycode\mybook\Chapter07\code\RecvMail\Pop3Socket.cpp(514,40): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+F:\mycode\mybook\Chapter07\code\RecvMail\Pop3Socket.cpp(517,54): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  RecvMail.vcxproj -> F:\mycode\mybook\Chapter07\code\RecvMail\x64\Debug\RecvMail.exe
